@@ -1,5 +1,15 @@
 #header-nav {
-  background-color: #937b63;
+  background-color: #264653;
   border: 0px;
   border-radius: 0;
+}
+p {
+  color: black;
+}
+.menu_item {
+  background-color: #e9c46a;
+  margin: 3px;
+  border-width: 1px;
+  border-color: black;
+  margin: 3px;
 }
